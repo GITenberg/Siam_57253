@@ -1,5 +1,5 @@
 _repo: Siam_57253
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Norbury, Edwin A. (Edwin Arthur)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1918
     gutenberg_agent_id: '44625'
     url: http://www.gutenberg.org/2009/agents/44625
+covers:
+- cover_type: archival
+  image_path: 57253-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Ernest
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '44624'
     url: http://www.gutenberg.org/2009/agents/44624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57253#Siam
 gutenberg_issued: '2018-06-02'
 gutenberg_type: Text
 identifiers:
